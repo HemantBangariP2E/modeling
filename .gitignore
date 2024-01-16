@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+// eslint-disable-next-line
+import { someModule } from '@mediapipe/tasks-vision';
